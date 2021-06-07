@@ -1,0 +1,15 @@
+
+.boton {
+    width: 4em;
+    height: 2em;
+    color: white;
+    background-color: red;
+    border-radius: 1em;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.boton:hover {
+    background-color: lightcoral;
+    transition: 1s;
+}
